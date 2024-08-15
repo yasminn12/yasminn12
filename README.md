@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasminn12
+- 👋 Meu nome é Yasmin 
 - 👀 Estudando na Alura
 - Estou me desenvolvendo na linguagem javaScript
 
